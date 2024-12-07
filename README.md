@@ -1,0 +1,2 @@
+# firstreporinky
+First git repositary
